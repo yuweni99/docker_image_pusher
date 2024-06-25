@@ -1,4 +1,3 @@
-calico/typha:v3.28.0
-calico/kube-controllers:v3.28.0
+kubesphere/devops-tools:ks-v3.3.2
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
